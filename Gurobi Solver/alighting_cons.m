@@ -1,0 +1,1 @@
+function[A, b] = alighting_cons(N_b, N_s, H_p, M)
